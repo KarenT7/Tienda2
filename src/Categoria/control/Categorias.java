@@ -5,6 +5,7 @@ import java.util.Iterator;
 
 import Categoria.entity.Categoria;
 import Categoria.entity.InexistenciaCategorias;
+//Linea Añadida
 
 public class Categorias {
 	private ArrayList<Categoria> categorias;
